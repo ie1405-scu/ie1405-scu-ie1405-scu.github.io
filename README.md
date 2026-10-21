@@ -19,6 +19,8 @@
 | :-: | --- | :-: | :-: |
 | ۰ | اینترنت چطور به اینجا رسید؟ | [مشاهده](https://ie1405-scu.github.io/00-how-we-got-here/) | [دریافت](https://ie1405-scu.github.io/00-how-we-got-here/00-how-we-got-here.pdf) |
 | ۱ | از URL تا سرور | [مشاهده](https://ie1405-scu.github.io/01-url-to-server/) | [دریافت](https://ie1405-scu.github.io/01-url-to-server/01-url-to-server.pdf) |
+| ۲ | یک تراکنش HTTP | [مشاهده](https://ie1405-scu.github.io/02-http-transaction/) | [دریافت](https://ie1405-scu.github.io/02-http-transaction/02-http-transaction.pdf) |
+| ۳ | state و هویت | [مشاهده](https://ie1405-scu.github.io/03-state-identity/) | [دریافت](https://ie1405-scu.github.io/03-state-identity/03-state-identity.pdf) |
 
 ## تمرین‌ها
 
@@ -27,5 +29,7 @@
 | شماره | تمرین | مهلت تحویل |
 | :-: | --- | --- |
 | ۱ | [کدام URL شما را فریب می‌دهد؟](exercises/01-tricky-urls/) | چهارشنبه ۲۹ مهر ۱۴۰۵، ساعت ۲۳:۵۹ |
+| ۲ | [سروری که HTTP را خودش می‌خواند](exercises/02-mini-http-server/) | به‌زودی اعلام می‌شود |
+| ۳ | [ورود با کوکی، و شکستن آن](exercises/03-cookie-csrf/) | به‌زودی اعلام می‌شود |
 
 </div>
